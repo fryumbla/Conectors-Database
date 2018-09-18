@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "About"
+  - title: "Sliding Gripper"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Vibration Gripper"
+    url: /about/    
+  - title: "Tolerance Conectors"
+    url: /Tolerance/
+  - title: "About"
+    url: /about/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
