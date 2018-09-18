@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /Tolerance-Conectors/
+permalink: /Tolerance/
 title: "Mating Process tolerance of plug-in cable connectors for wiring harness assembly tasks"
 author_profile: false
 header:
