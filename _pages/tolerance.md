@@ -7,17 +7,10 @@ header:
   image: "/images/fort point.png"
 ---
 
-# H1 Heading
+## Introduction
 
-## H2 Heading
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
+we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. As more robotic assembly applications are implemented in
+many industrial applications over the years, the  importance of wiring harness assembly tasks are getting more attention. Conventional mating processes rely on force control or mechanical passive compliance such as remote compliance center (RCC) mechanisms. We notice that, nowadays, collaboration robotic manipulators or small size industrial robotic manipulators attain high repeatability levels (sub-millimeter) thus demonstrate very precise position control capacities. In this study, our system using a simple sliding surface gripper attach in 6 degree-of-freedom ABB industrial robot to apply in wiring harness assembly tasks. We have found that 12 types of wiring harnesses have mating tolerance bigger than the repeatability of typical industrial manipulator. This database can be used with different robot manipulator for wiring harness assembly tasks without using force control but relying on only position control.
 
 What about a [link](https://github.com/dataoptimal)?
 
@@ -31,21 +24,6 @@ Here's a numbered list:
 2. Second
 3. Third
 
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
 
 Here's some inline code `x+y`.
 
@@ -54,9 +32,3 @@ Here's an image:
 
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
