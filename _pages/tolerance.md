@@ -30,7 +30,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data">
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+
+#Here's another image using Kramdown:
+#![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
