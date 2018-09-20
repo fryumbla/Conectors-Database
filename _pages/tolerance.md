@@ -47,13 +47,13 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <th class="tg-c3ow">Class</th>
     <th class="tg-c3ow">Brand</th>
     <th class="tg-c3ow">Part Number</th>
-    <th class="tg-c3ow">Pines</th>
+    <th class="tg-c3ow">N. <br>Pin</th>
     <th class="tg-c3ow">Tolerance in <br>Z direction(mm)</th>
     <th class="tg-c3ow">Tolerance in <br>X direction(mm)</th>
   </tr>
   <tr>
     <td class="tg-g30d">1</td>
-    <td class="tg-g30d"></td>
+    <td class="tg-g30d">C4</td>
     <td class="tg-g30d">YEONHO</td>
     <td class="tg-g30d">SMH250-05</td>
     <td class="tg-g30d">5</td>
@@ -62,412 +62,412 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">C1</td>
+    <td class="tg-c3ow">Digilent</td>
+    <td class="tg-c3ow">6-pin MTE Cable</td>
     <td class="tg-c3ow">3</td>
     <td class="tg-c3ow">1.00</td>
     <td class="tg-c3ow">1.40</td>
   </tr>
   <tr>
     <td class="tg-g30d">3</td>
-    <td class="tg-g30d"></td>
-    <td class="tg-g30d"></td>
-    <td class="tg-g30d"></td>
+    <td class="tg-g30d">C8</td>
+    <td class="tg-g30d">ELEPARTS</td>
+    <td class="tg-g30d">PC1606</td>
     <td class="tg-g30d">6</td>
     <td class="tg-g30d">1.25</td>
     <td class="tg-g30d">1.40</td>
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">C4</td>
+    <td class="tg-c3ow">ELEPARTS</td>
+    <td class="tg-c3ow">PM1802</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">1.65</td>
     <td class="tg-c3ow">1.25</td>
   </tr>
   <tr>
     <td class="tg-g30d">5</td>
-    <td class="tg-g30d"></td>
-    <td class="tg-g30d"></td>
-    <td class="tg-g30d"></td>
+    <td class="tg-g30d">C8</td>
+    <td class="tg-g30d">ELEPARTS</td>
+    <td class="tg-g30d">PC1802</td>
     <td class="tg-g30d">2</td>
     <td class="tg-g30d">1.00</td>
     <td class="tg-g30d">1.05</td>
   </tr>
   <tr>
     <td class="tg-baqh">6</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
+    <td class="tg-baqh">YEONHO</td>
+    <td class="tg-baqh">SMH250-04</td>
     <td class="tg-baqh">4</td>
     <td class="tg-baqh">1.50</td>
     <td class="tg-baqh">1.00</td>
   </tr>
   <tr>
     <td class="tg-yq6s">7</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C8</td>
+    <td class="tg-yq6s">ELEPARTS</td>
+    <td class="tg-yq6s">PC1602</td>
     <td class="tg-yq6s">2</td>
     <td class="tg-yq6s">1.60</td>
     <td class="tg-yq6s">1.65</td>
   </tr>
   <tr>
     <td class="tg-baqh">8</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C8</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh">PC1604</td>
     <td class="tg-baqh">4</td>
     <td class="tg-baqh">2.10</td>
     <td class="tg-baqh">1.60</td>
   </tr>
   <tr>
     <td class="tg-yq6s">9</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
+    <td class="tg-yq6s">YEONHO</td>
+    <td class="tg-yq6s">SMH250-08</td>
     <td class="tg-yq6s">8</td>
     <td class="tg-yq6s">1.50</td>
     <td class="tg-yq6s">0.95</td>
   </tr>
   <tr>
     <td class="tg-baqh">10</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C5</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh">MO0101</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1.10</td>
     <td class="tg-baqh">1.85</td>
   </tr>
   <tr>
     <td class="tg-yq6s">11</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C7</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">5557-16R</td>
     <td class="tg-yq6s">8</td>
     <td class="tg-yq6s">0.95</td>
     <td class="tg-yq6s">0.95</td>
   </tr>
   <tr>
     <td class="tg-baqh">12</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C8</td>
+    <td class="tg-baqh">MOLEX</td>
+    <td class="tg-baqh">5557-10R</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">0.95</td>
     <td class="tg-baqh">0.75</td>
   </tr>
   <tr>
     <td class="tg-yq6s">13</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C9</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">5557-12R</td>
     <td class="tg-yq6s">12</td>
     <td class="tg-yq6s">0.90</td>
     <td class="tg-yq6s">0.80</td>
   </tr>
   <tr>
     <td class="tg-baqh">14</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C8</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh">PC1603</td>
     <td class="tg-baqh">3</td>
     <td class="tg-baqh">1.10</td>
     <td class="tg-baqh">1.25</td>
   </tr>
   <tr>
     <td class="tg-yq6s">15</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
+    <td class="tg-yq6s">ELEPARTS</td>
+    <td class="tg-yq6s">SMH250-03</td>
     <td class="tg-yq6s">3</td>
     <td class="tg-yq6s">1.45</td>
     <td class="tg-yq6s">0.85</td>
   </tr>
   <tr>
     <td class="tg-baqh">16</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C5</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh">MO0103</td>
     <td class="tg-baqh">3</td>
     <td class="tg-baqh">1.65</td>
     <td class="tg-baqh">1.85</td>
   </tr>
   <tr>
     <td class="tg-yq6s">17</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C5</td>
+    <td class="tg-yq6s">ELEPARTS</td>
+    <td class="tg-yq6s">MO0102</td>
     <td class="tg-yq6s">2</td>
     <td class="tg-yq6s">1.60</td>
     <td class="tg-yq6s">1.40</td>
   </tr>
   <tr>
     <td class="tg-baqh">18</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C5</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh">MO0104</td>
     <td class="tg-baqh">4</td>
     <td class="tg-baqh">0.95</td>
     <td class="tg-baqh">1.00</td>
   </tr>
   <tr>
     <td class="tg-yq6s">19</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C1</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">5239-04</td>
     <td class="tg-yq6s">4</td>
     <td class="tg-yq6s">1.70</td>
     <td class="tg-yq6s">2.05</td>
   </tr>
   <tr>
     <td class="tg-baqh">20</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C1</td>
+    <td class="tg-baqh">MOLEX</td>
+    <td class="tg-baqh">5239-05</td>
     <td class="tg-baqh">5</td>
     <td class="tg-baqh">1.55</td>
     <td class="tg-baqh">1.90</td>
   </tr>
   <tr>
     <td class="tg-yq6s">21</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C1</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">5239-06</td>
     <td class="tg-yq6s">6</td>
     <td class="tg-yq6s">1.65</td>
     <td class="tg-yq6s">1.75</td>
   </tr>
   <tr>
     <td class="tg-baqh">22</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C1</td>
+    <td class="tg-baqh">MOLEX</td>
+    <td class="tg-baqh">5239-08</td>
     <td class="tg-baqh">8</td>
     <td class="tg-baqh">1.60</td>
     <td class="tg-baqh">2.05</td>
   </tr>
   <tr>
     <td class="tg-yq6s">23</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C1</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">5239-09</td>
     <td class="tg-yq6s">9</td>
     <td class="tg-yq6s">1.40</td>
     <td class="tg-yq6s">1.90</td>
   </tr>
   <tr>
     <td class="tg-baqh">24</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C1</td>
+    <td class="tg-baqh">MOLEX</td>
+    <td class="tg-baqh">5239-10</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">1.60</td>
     <td class="tg-baqh">2.00</td>
   </tr>
   <tr>
     <td class="tg-yq6s">25</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
+    <td class="tg-yq6s">YEONHO</td>
+    <td class="tg-yq6s">SMH250-10</td>
     <td class="tg-yq6s">10</td>
     <td class="tg-yq6s">1.55</td>
     <td class="tg-yq6s">0.85</td>
   </tr>
   <tr>
     <td class="tg-baqh">26</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C3</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh"> </td>
     <td class="tg-baqh">5</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">27</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s">MOLEX</td>
-    <td class="tg-yq6s">51067-05</td>
-    <td class="tg-yq6s">5</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C3</td>
+    <td class="tg-yq6s">ELEPARTS</td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s">4</td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">28</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">4</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C3</td>
+    <td class="tg-baqh">ELEPARTS</td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">29</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s">3</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C2</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">51067-05</td>
+    <td class="tg-yq6s">5</td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">30</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C2</td>
     <td class="tg-baqh">MOLEX</td>
     <td class="tg-baqh">51067-03</td>
     <td class="tg-baqh">3</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">31</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C2</td>
     <td class="tg-yq6s">MOLEX</td>
     <td class="tg-yq6s">51067-02</td>
     <td class="tg-yq6s">2</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">32</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
     <td class="tg-baqh">YEONHO</td>
     <td class="tg-baqh">SMH250-12</td>
     <td class="tg-baqh">12</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">33</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
     <td class="tg-yq6s">SMH250-11</td>
     <td class="tg-yq6s">11</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">34</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
     <td class="tg-baqh">YEONHO</td>
     <td class="tg-baqh">SMH250-09</td>
     <td class="tg-baqh">9</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">35</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
     <td class="tg-yq6s">SMH250-08</td>
     <td class="tg-yq6s">8</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">36</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
     <td class="tg-baqh">YEONHO</td>
     <td class="tg-baqh">SMH250-07</td>
     <td class="tg-baqh">7</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">37</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
     <td class="tg-yq6s">SMH250-06</td>
     <td class="tg-yq6s">6</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">38</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
     <td class="tg-baqh">YEONHO</td>
     <td class="tg-baqh">SMH250-05</td>
     <td class="tg-baqh">5</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">39</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
     <td class="tg-yq6s">SMH250-04</td>
     <td class="tg-yq6s">4</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">40</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C4</td>
     <td class="tg-baqh">YEONHO</td>
     <td class="tg-baqh">SMH250-03</td>
     <td class="tg-baqh">3</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">41</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
     <td class="tg-yq6s">SMH250-02</td>
     <td class="tg-yq6s">2</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">42</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C10</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7021A-2.8</td>
     <td class="tg-baqh">2</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">43</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C10</td>
     <td class="tg-yq6s">DEVICEMART</td>
     <td class="tg-yq6s">DJ7031A-2.8</td>
     <td class="tg-yq6s">3</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">44</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C10</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7041A-2.8</td>
     <td class="tg-baqh">4</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">45</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C10</td>
     <td class="tg-yq6s">DEVICEMART</td>
     <td class="tg-yq6s">DJ7061A-2.8</td>
     <td class="tg-yq6s">6</td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh">46</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C10</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7091A-2.8</td>
     <td class="tg-baqh">9</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">47</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C11</td>
     <td class="tg-yq6s">DEVICEMART</td>
     <td class="tg-yq6s">DJ7011A-6.3</td>
     <td class="tg-yq6s">1</td>
@@ -476,16 +476,16 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-baqh">48</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C11</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7021A-6.3</td>
     <td class="tg-baqh">2</td>
-    <td class="tg-baqh">#REF!</td>
-    <td class="tg-baqh">#REF!</td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">49</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C11</td>
     <td class="tg-yq6s">DEVICEMART</td>
     <td class="tg-yq6s">DJ7031A-6.3</td>
     <td class="tg-yq6s">3</td>
@@ -494,39 +494,39 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-baqh">50</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">C11</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7041A-6.3</td>
     <td class="tg-baqh">4</td>
-    <td class="tg-baqh">#REF!</td>
-    <td class="tg-baqh">#REF!</td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
     <td class="tg-yq6s">51</td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">C11</td>
     <td class="tg-yq6s">DEVICEMART</td>
     <td class="tg-yq6s">DJ7061A-6.3</td>
     <td class="tg-yq6s">6</td>
-    <td class="tg-yq6s">#REF!</td>
-    <td class="tg-yq6s">#REF!</td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">52</td>
+    <td class="tg-baqh">C6</td>
+    <td class="tg-baqh">MOLEX</td>
+    <td class="tg-baqh">334810201</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh"> </td>
   </tr>
   <tr>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
-    <td class="tg-yq6s"></td>
+    <td class="tg-yq6s">53</td>
+    <td class="tg-yq6s">C6</td>
+    <td class="tg-yq6s">MOLEX</td>
+    <td class="tg-yq6s">334820801</td>
+    <td class="tg-yq6s">8</td>
+    <td class="tg-yq6s"> </td>
+    <td class="tg-yq6s"> </td>
   </tr>
   <tr>
     <td class="tg-baqh"></td>
