@@ -30,19 +30,22 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data">
 
+
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 table {
     font-family: arial, sans-serif;
+    border: 1px solid black;
     border-collapse: collapse;
     width: 100%;
 }
 
 td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
+    border: 2px solid #dddddd;
+    text-align: center;
     padding: 8px;
 }
 
@@ -57,9 +60,13 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>N.</th>
+    <th>Class</th>
+    <th>Brand</th>
+    <th>Part Number</th>
+    <th>Pins</th>
+    <th>Tolerance in X direction(mm)</th>
+    <th>Tolerance in Z direction(mm)</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
