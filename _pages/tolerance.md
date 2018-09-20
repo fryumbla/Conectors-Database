@@ -39,7 +39,6 @@ We used a different class of cable connectors for this experiments. Commonly, th
 table {
     font-family: arial, sans-serif;
     border: 1px solid black;
-    border-collapse: collapse;
     width: 100%;
 }
 
