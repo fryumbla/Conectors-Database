@@ -4,7 +4,7 @@ permalink: /tolerance/
 title: "Mating Process tolerance of plug-in cable connectors for wiring harness assembly tasks"
 author_profile: false
 header:
-  image: "/images/tolerance/Banner1.jpg"
+  image: "/images/tolerance/banner1.jpg"
 ---
 
 ## Introduction
