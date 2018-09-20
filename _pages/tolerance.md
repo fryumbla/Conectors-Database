@@ -19,7 +19,7 @@ The tolerance or permissible error range is the distance between the male and fe
 ## Mating process test
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data">
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" alt="linearly separable data">
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" alt="linearly separable data">
 
