@@ -32,7 +32,6 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -55,7 +54,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<!-- <h2>HTML Table</h2> -->
 
 <table>
   <tr>
