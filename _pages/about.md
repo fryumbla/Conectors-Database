@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+<img src="{{ site.url }}{{ site.baseurl }}/images/me/francisco.jpg" alt="linearly separable data">
 
-Etc, etc, etc
+I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
