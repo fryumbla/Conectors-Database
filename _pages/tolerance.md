@@ -16,7 +16,7 @@ many industrial applications over the years, the  importance of wiring harness a
 
 The tolerance or permissible error range is the distance between the male and female connector in horizontal and vertical for successful mating. Hence, if the control position error of the robot arm is in the range of tolerance you can successfully plug the cable. The main purpose of this research is to obtain a database of many tolerance mating of cables connectors. We used the Robotiq 2-finger Adaptive gripper with the ABB robot Industrial and experimentally show that the mating process can be achieved by just using pose control.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="800" width="800" aling="middle">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="800" width="800" align="middle">
 
 ## Mating process test
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data" height="800" width="800">
