@@ -16,19 +16,19 @@ many industrial applications over the years, the  importance of wiring harness a
 
 The tolerance or permissible error range is the distance between the male and female connector in horizontal and vertical for successful mating. Hence, if the control position error of the robot arm is in the range of tolerance you can successfully plug the cable. The main purpose of this research is to obtain a database of many tolerance mating of cables connectors. We used the Robotiq 2-finger Adaptive gripper with the ABB robot Industrial and experimentally show that the mating process can be achieved by just using pose control.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="42" width="42">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="10" width="10">
 
 ## Mating process test
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data" height="42" width="42">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" alt="linearly separable data" height="42" width="42">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data" height="10" width="10">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" alt="linearly separable data" height="10" width="10">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" alt="linearly separable data" height="42" width="42">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" alt="linearly separable data" height="10" width="10">
 
 ## Tolerance Database
 
 We used a different class of cable connectors for this experiments. Commonly, these connectors have been used in wiring harness assembly system. All connectors tested in our system and we made a tolerance database.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data" height="42" width="42">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data" height="10" width="10">
 
 
 
@@ -421,7 +421,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s"> </td>
   </tr>
   <tr>
-    <td class="tg-baqh">42</td>
+    <td class="tg-baqh">10</td>
     <td class="tg-baqh">C10</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7021A-2.8</td>
