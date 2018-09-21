@@ -16,19 +16,19 @@ many industrial applications over the years, the  importance of wiring harness a
 
 The tolerance or permissible error range is the distance between the male and female connector in horizontal and vertical for successful mating. Hence, if the control position error of the robot arm is in the range of tolerance you can successfully plug the cable. The main purpose of this research is to obtain a database of many tolerance mating of cables connectors. We used the Robotiq 2-finger Adaptive gripper with the ABB robot Industrial and experimentally show that the mating process can be achieved by just using pose control.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="30" width="30">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" alt="linearly separable data" height="100" width="100">
 
 ## Mating process test
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data" height="30" width="30">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" alt="linearly separable data" height="30" width="30">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" alt="linearly separable data" height="100" width="100">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" alt="linearly separable data" height="100" width="100">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" alt="linearly separable data" height="30" width="30">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" alt="linearly separable data" height="100" width="100">
 
 ## Tolerance Database
 
 We used a different class of cable connectors for this experiments. Commonly, these connectors have been used in wiring harness assembly system. All connectors tested in our system and we made a tolerance database.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data" height="30" width="30">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" alt="linearly separable data" height="100" width="100">
 
 
 
@@ -58,7 +58,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-g30d">SMH250-05</td>
     <td class="tg-g30d">5</td>
     <td class="tg-g30d">1.65</td>
-    <td class="tg-g30d">1.30</td>
+    <td class="tg-g30d">1.100</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
@@ -120,7 +120,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-baqh">ELEPARTS</td>
     <td class="tg-baqh">PC1604</td>
     <td class="tg-baqh">4</td>
-    <td class="tg-baqh">2.30</td>
+    <td class="tg-baqh">2.100</td>
     <td class="tg-baqh">1.60</td>
   </tr>
   <tr>
@@ -133,12 +133,12 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s">0.95</td>
   </tr>
   <tr>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">C5</td>
     <td class="tg-baqh">ELEPARTS</td>
     <td class="tg-baqh">MO0301</td>
     <td class="tg-baqh">1</td>
-    <td class="tg-baqh">1.30</td>
+    <td class="tg-baqh">1.100</td>
     <td class="tg-baqh">1.85</td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-baqh">C8</td>
     <td class="tg-baqh">MOLEX</td>
     <td class="tg-baqh">5557-30R</td>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">0.95</td>
     <td class="tg-baqh">0.75</td>
   </tr>
@@ -174,7 +174,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-baqh">ELEPARTS</td>
     <td class="tg-baqh">PC1603</td>
     <td class="tg-baqh">3</td>
-    <td class="tg-baqh">1.30</td>
+    <td class="tg-baqh">1.100</td>
     <td class="tg-baqh">1.25</td>
   </tr>
   <tr>
@@ -223,7 +223,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s">2.05</td>
   </tr>
   <tr>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">C1</td>
     <td class="tg-baqh">MOLEX</td>
     <td class="tg-baqh">5239-05</td>
@@ -262,8 +262,8 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-baqh">24</td>
     <td class="tg-baqh">C1</td>
     <td class="tg-baqh">MOLEX</td>
-    <td class="tg-baqh">5239-30</td>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">5239-100</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">1.60</td>
     <td class="tg-baqh">2.00</td>
   </tr>
@@ -271,8 +271,8 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s">25</td>
     <td class="tg-yq6s">C4</td>
     <td class="tg-yq6s">YEONHO</td>
-    <td class="tg-yq6s">SMH250-30</td>
-    <td class="tg-yq6s">30</td>
+    <td class="tg-yq6s">SMH250-100</td>
+    <td class="tg-yq6s">100</td>
     <td class="tg-yq6s">1.55</td>
     <td class="tg-yq6s">0.85</td>
   </tr>
@@ -313,7 +313,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s"> </td>
   </tr>
   <tr>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">C2</td>
     <td class="tg-baqh">MOLEX</td>
     <td class="tg-baqh">53067-03</td>
@@ -421,7 +421,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-yq6s"> </td>
   </tr>
   <tr>
-    <td class="tg-baqh">30</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">C30</td>
     <td class="tg-baqh">DEVICEMART</td>
     <td class="tg-baqh">DJ7021A-2.8</td>
