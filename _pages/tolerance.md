@@ -19,10 +19,9 @@ The tolerance or permissible error range is the distance between the male and fe
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" height="300" width="300">
 
 ## Mating process test
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="300" width="300">
-
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="200" width="200">
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" height="300" width="300">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" height="300" width="300">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" height="300" width="300" >
 
 ## Tolerance Database
 
