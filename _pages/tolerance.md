@@ -35,8 +35,10 @@ We used a different class of cable connectors for this experiments. Commonly, th
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-pury{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-0ok5{background-color:#FCFBE3;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -275,308 +277,227 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">26</td>
-    <td class="tg-wp8o">C3</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o">5</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">C4</td>
+    <td class="tg-wp8o">YEONHO</td>
+    <td class="tg-wp8o">SMH250-12</td>
+    <td class="tg-wp8o">12</td>
+    <td class="tg-wp8o">0.68</td>
+    <td class="tg-wp8o">0.53</td>
   </tr>
   <tr>
     <td class="tg-0ok5">27</td>
-    <td class="tg-0ok5">C3</td>
-    <td class="tg-0ok5">ELEPARTS</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5">4</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">C4</td>
+    <td class="tg-0ok5">YEONHO</td>
+    <td class="tg-0ok5">SMH250-11</td>
+    <td class="tg-0ok5">11</td>
+    <td class="tg-0ok5">0.65</td>
+    <td class="tg-0ok5">0.65</td>
   </tr>
   <tr>
     <td class="tg-wp8o">28</td>
-    <td class="tg-wp8o">C3</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">C4</td>
+    <td class="tg-wp8o">YEONHO</td>
+    <td class="tg-wp8o">SMH250-10</td>
+    <td class="tg-wp8o">10</td>
+    <td class="tg-wp8o">0.77</td>
+    <td class="tg-wp8o">0.60</td>
   </tr>
   <tr>
     <td class="tg-0ok5">29</td>
-    <td class="tg-0ok5">C2</td>
-    <td class="tg-0ok5">MOLEX</td>
-    <td class="tg-0ok5">51067-05</td>
-    <td class="tg-0ok5">5</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">C4</td>
+    <td class="tg-0ok5">YEONHO</td>
+    <td class="tg-0ok5">SMH250-09</td>
+    <td class="tg-0ok5">9</td>
+    <td class="tg-0ok5">0.73</td>
+    <td class="tg-0ok5">0.55</td>
   </tr>
   <tr>
     <td class="tg-wp8o">30</td>
-    <td class="tg-wp8o">C2</td>
-    <td class="tg-wp8o">MOLEX</td>
-    <td class="tg-wp8o">51067-03</td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">C4</td>
+    <td class="tg-wp8o">YEONHO</td>
+    <td class="tg-wp8o">SMH250-08</td>
+    <td class="tg-wp8o">8</td>
+    <td class="tg-wp8o">0.80</td>
+    <td class="tg-wp8o">0.68</td>
   </tr>
   <tr>
     <td class="tg-0ok5">31</td>
-    <td class="tg-0ok5">C2</td>
-    <td class="tg-0ok5">MOLEX</td>
-    <td class="tg-0ok5">51067-02</td>
-    <td class="tg-0ok5">2</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">C4</td>
+    <td class="tg-0ok5">YEONHO</td>
+    <td class="tg-0ok5">SMH250-07</td>
+    <td class="tg-0ok5">7</td>
+    <td class="tg-0ok5">0.77</td>
+    <td class="tg-0ok5">0.60</td>
   </tr>
   <tr>
     <td class="tg-wp8o">32</td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-12</td>
-    <td class="tg-wp8o">12</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">SMH250-06</td>
+    <td class="tg-wp8o">6</td>
+    <td class="tg-wp8o">0.70</td>
+    <td class="tg-wp8o">0.55</td>
   </tr>
   <tr>
     <td class="tg-0ok5">33</td>
     <td class="tg-0ok5">C4</td>
     <td class="tg-0ok5">YEONHO</td>
-    <td class="tg-0ok5">SMH250-11</td>
-    <td class="tg-0ok5">11</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">SMH250-05</td>
+    <td class="tg-0ok5">5</td>
+    <td class="tg-0ok5">0.68</td>
+    <td class="tg-0ok5">0.51</td>
   </tr>
   <tr>
     <td class="tg-wp8o">34</td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-09</td>
-    <td class="tg-wp8o">9</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">SMH250-04</td>
+    <td class="tg-wp8o">4</td>
+    <td class="tg-wp8o">0.73</td>
+    <td class="tg-wp8o">0.50</td>
   </tr>
   <tr>
     <td class="tg-0ok5">35</td>
     <td class="tg-0ok5">C4</td>
     <td class="tg-0ok5">YEONHO</td>
-    <td class="tg-0ok5">SMH250-08</td>
-    <td class="tg-0ok5">8</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">SMH250-03</td>
+    <td class="tg-0ok5">3</td>
+    <td class="tg-0ok5">0.75</td>
+    <td class="tg-0ok5">0.43</td>
   </tr>
   <tr>
     <td class="tg-wp8o">36</td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-07</td>
-    <td class="tg-wp8o">7</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">SMH250-02</td>
+    <td class="tg-wp8o">2</td>
+    <td class="tg-wp8o">0.78</td>
+    <td class="tg-wp8o">0.58</td>
   </tr>
   <tr>
     <td class="tg-0ok5">37</td>
-    <td class="tg-0ok5">C4</td>
-    <td class="tg-0ok5">YEONHO</td>
-    <td class="tg-0ok5">SMH250-06</td>
-    <td class="tg-0ok5">6</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">C10</td>
+    <td class="tg-0ok5">DEVICEMART</td>
+    <td class="tg-0ok5">DJ7021A-2.8</td>
+    <td class="tg-0ok5">2</td>
+    <td class="tg-0ok5">0.40</td>
+    <td class="tg-0ok5">0.83</td>
   </tr>
   <tr>
     <td class="tg-wp8o">38</td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-05</td>
-    <td class="tg-wp8o">5</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">C10</td>
+    <td class="tg-wp8o">DEVICEMART</td>
+    <td class="tg-wp8o">DJ7031A-2.8</td>
+    <td class="tg-wp8o">3</td>
+    <td class="tg-wp8o">0.58</td>
+    <td class="tg-wp8o">1.06</td>
   </tr>
   <tr>
     <td class="tg-0ok5">39</td>
-    <td class="tg-0ok5">C4</td>
-    <td class="tg-0ok5">YEONHO</td>
-    <td class="tg-0ok5">SMH250-04</td>
+    <td class="tg-0ok5">C10</td>
+    <td class="tg-0ok5">DEVICEMART</td>
+    <td class="tg-0ok5">DJ7041A-2.8</td>
     <td class="tg-0ok5">4</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">0.46</td>
+    <td class="tg-0ok5">0.37</td>
   </tr>
   <tr>
     <td class="tg-wp8o">40</td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-03</td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">C10</td>
+    <td class="tg-wp8o">DEVICEMART</td>
+    <td class="tg-wp8o">DJ7061A-2.8</td>
+    <td class="tg-wp8o">6</td>
+    <td class="tg-wp8o">0.26</td>
+    <td class="tg-wp8o">0.85</td>
   </tr>
   <tr>
     <td class="tg-0ok5">41</td>
-    <td class="tg-0ok5">C4</td>
-    <td class="tg-0ok5">YEONHO</td>
-    <td class="tg-0ok5">SMH250-02</td>
-    <td class="tg-0ok5">2</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">C10</td>
+    <td class="tg-0ok5">DEVICEMART</td>
+    <td class="tg-0ok5">DJ7091A-2.8</td>
+    <td class="tg-0ok5">9</td>
+    <td class="tg-0ok5">0.45</td>
+    <td class="tg-0ok5">0.77</td>
   </tr>
   <tr>
     <td class="tg-wp8o">42</td>
-    <td class="tg-wp8o">C10</td>
+    <td class="tg-wp8o">C11</td>
     <td class="tg-wp8o">DEVICEMART</td>
-    <td class="tg-wp8o">DJ7021A-2.8</td>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">DJ7011A-6.3</td>
+    <td class="tg-wp8o">1</td>
+    <td class="tg-wp8o">1.47</td>
+    <td class="tg-wp8o">1.29</td>
   </tr>
   <tr>
     <td class="tg-0ok5">43</td>
-    <td class="tg-0ok5">C10</td>
+    <td class="tg-0ok5">C11</td>
     <td class="tg-0ok5">DEVICEMART</td>
-    <td class="tg-0ok5">DJ7031A-2.8</td>
-    <td class="tg-0ok5">3</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">DJ7021A-6.3</td>
+    <td class="tg-0ok5">2</td>
+    <td class="tg-0ok5">1.94</td>
+    <td class="tg-0ok5">1.37</td>
   </tr>
   <tr>
     <td class="tg-wp8o">44</td>
-    <td class="tg-wp8o">C10</td>
+    <td class="tg-wp8o">C11</td>
     <td class="tg-wp8o">DEVICEMART</td>
-    <td class="tg-wp8o">DJ7041A-2.8</td>
-    <td class="tg-wp8o">4</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">DJ7031A-6.3</td>
+    <td class="tg-wp8o">3</td>
+    <td class="tg-wp8o">0.90</td>
+    <td class="tg-wp8o">0.93</td>
   </tr>
   <tr>
     <td class="tg-0ok5">45</td>
-    <td class="tg-0ok5">C10</td>
+    <td class="tg-0ok5">C11</td>
     <td class="tg-0ok5">DEVICEMART</td>
-    <td class="tg-0ok5">DJ7061A-2.8</td>
-    <td class="tg-0ok5">6</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
+    <td class="tg-0ok5">DJ7041A-6.3</td>
+    <td class="tg-0ok5">4</td>
+    <td class="tg-0ok5">1.47</td>
+    <td class="tg-0ok5">1.14</td>
   </tr>
   <tr>
     <td class="tg-wp8o">46</td>
-    <td class="tg-wp8o">C10</td>
+    <td class="tg-wp8o">C11</td>
     <td class="tg-wp8o">DEVICEMART</td>
-    <td class="tg-wp8o">DJ7091A-2.8</td>
-    <td class="tg-wp8o">9</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
+    <td class="tg-wp8o">DJ7061A-6.3</td>
+    <td class="tg-wp8o">6</td>
+    <td class="tg-wp8o">1.54</td>
+    <td class="tg-wp8o">1.27</td>
   </tr>
   <tr>
     <td class="tg-0ok5">47</td>
-    <td class="tg-0ok5">C11</td>
-    <td class="tg-0ok5">DEVICEMART</td>
-    <td class="tg-0ok5">DJ7011A-6.3</td>
-    <td class="tg-0ok5">1</td>
-    <td class="tg-0ok5">1.455</td>
-    <td class="tg-0ok5">1.04</td>
+    <td class="tg-0ok5">C6</td>
+    <td class="tg-0ok5">MOLEX</td>
+    <td class="tg-0ok5">334810201</td>
+    <td class="tg-0ok5">2</td>
+    <td class="tg-0ok5">1.16</td>
+    <td class="tg-0ok5">1.01</td>
   </tr>
   <tr>
     <td class="tg-wp8o">48</td>
-    <td class="tg-wp8o">C11</td>
-    <td class="tg-wp8o">DEVICEMART</td>
+    <td class="tg-wp8o">C12</td>
+    <td class="tg-wp8o">ELEPARTS</td>
     <td class="tg-wp8o">DJ7021A-6.3</td>
     <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">0.45</td>
+    <td class="tg-wp8o">0.88</td>
   </tr>
   <tr>
-    <td class="tg-0ok5">49</td>
-    <td class="tg-0ok5">C11</td>
-    <td class="tg-0ok5">DEVICEMART</td>
-    <td class="tg-0ok5">DJ7031A-6.3</td>
-    <td class="tg-0ok5">3</td>
-    <td class="tg-0ok5">0.91</td>
-    <td class="tg-0ok5">0.88</td>
+    <td class="tg-pury">49</td>
+    <td class="tg-pury">C12</td>
+    <td class="tg-pury">ELEPARTS</td>
+    <td class="tg-pury">DJ7021A-6.3</td>
+    <td class="tg-pury">2</td>
+    <td class="tg-pury">0.78</td>
+    <td class="tg-pury">0.84</td>
   </tr>
   <tr>
-    <td class="tg-wp8o">50</td>
-    <td class="tg-wp8o">C11</td>
-    <td class="tg-wp8o">DEVICEMART</td>
-    <td class="tg-wp8o">DJ7041A-6.3</td>
-    <td class="tg-wp8o">4</td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ok5">51</td>
-    <td class="tg-0ok5">C11</td>
-    <td class="tg-0ok5">DEVICEMART</td>
-    <td class="tg-0ok5">DJ7061A-6.3</td>
-    <td class="tg-0ok5">6</td>
-    <td class="tg-0ok5">1.54</td>
-    <td class="tg-0ok5">1.27</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">52</td>
-    <td class="tg-wp8o">C6</td>
-    <td class="tg-wp8o">MOLEX</td>
-    <td class="tg-wp8o">334810201</td>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o"> </td>
-    <td class="tg-wp8o"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0ok5">53</td>
-    <td class="tg-0ok5">C6</td>
-    <td class="tg-0ok5">MOLEX</td>
-    <td class="tg-0ok5">334820801</td>
-    <td class="tg-0ok5">8</td>
-    <td class="tg-0ok5"> </td>
-    <td class="tg-0ok5"> </td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-wp8o"></td>
-  </tr>
-  <tr>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
-    <td class="tg-0ok5"></td>
+    <td class="tg-jbyd">50</td>
+    <td class="tg-jbyd">C12</td>
+    <td class="tg-jbyd">ELEPARTS</td>
+    <td class="tg-jbyd">DJ7031A-6.3</td>
+    <td class="tg-jbyd">3</td>
+    <td class="tg-jbyd">0.31</td>
+    <td class="tg-jbyd">0.65</td>
   </tr>
 </table>
