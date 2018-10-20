@@ -54,7 +54,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-05</td>
+    <td class="tg-wp8o"><a href="https://vn.misumi-ec.com/vona2/detail/222005579811/?HissuCode=SMH250-05">SMH250-05</a></td>
     <td class="tg-wp8o">5</td>
     <td class="tg-wp8o">1.65</td>
     <td class="tg-wp8o">1.20</td>
