@@ -61,7 +61,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">2</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/2.jpg" height="40" width="40"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/2.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C1</td>
     <td class="tg-wp8o">Digilent</td>
     <td class="tg-wp8o">6-pin MTE Cable</td>
