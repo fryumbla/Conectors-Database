@@ -91,7 +91,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">5</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/5.jpg" height="400" width="400"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/5.JPG" height="400" width="400"></td>
     <td class="tg-wp8o">C8</td>
     <td class="tg-wp8o">ELEPARTS</td>
     <td class="tg-wp8o">PC1802</td>
