@@ -131,7 +131,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">9</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/9.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">YEONHO</td>
     <td class="tg-wp8o">SMH250-08</td>
@@ -141,7 +141,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">10</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/10.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C5</td>
     <td class="tg-wp8o">ELEPARTS</td>
     <td class="tg-wp8o">MO0101</td>
@@ -151,7 +151,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">11</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/11.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C7</td>
     <td class="tg-wp8o">MOLEX</td>
     <td class="tg-wp8o">5557-16R</td>
@@ -161,7 +161,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">12</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/12.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C8</td>
     <td class="tg-wp8o">MOLEX</td>
     <td class="tg-wp8o">5557-10R</td>
@@ -171,7 +171,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">13</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/13.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C9</td>
     <td class="tg-wp8o">MOLEX</td>
     <td class="tg-wp8o">5557-12R</td>
@@ -181,7 +181,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">14</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/14.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C8</td>
     <td class="tg-wp8o">ELEPARTS</td>
     <td class="tg-wp8o">PC1603</td>
@@ -191,7 +191,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-wp8o">15</td>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/15.jpg" height="400" width="400"></td>
     <td class="tg-wp8o">C4</td>
     <td class="tg-wp8o">ELEPARTS</td>
     <td class="tg-wp8o">SMH250-03</td>
