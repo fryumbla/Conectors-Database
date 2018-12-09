@@ -29,38 +29,6 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" height="400" width="400">
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-wp8o">N.</th>
-    <th class="tg-73oq">Picture</th>
-    <th class="tg-wp8o">Class</th>
-    <th class="tg-wp8o">Brand</th>
-    <th class="tg-wp8o">Part Number</th>
-    <th class="tg-wp8o">Pines</th>
-    <th class="tg-wp8o">Tolerance in <br>Z direction(mm)</th>
-    <th class="tg-wp8o">Tolerance in <br>X direction(mm)</th>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">1</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o"><a href="https://vn.misumi-ec.com/vona2/detail/222005579811/?HissuCode=SMH250-05">SMH250-05</a></td>
-    <td class="tg-wp8o">5</td>
-    <td class="tg-wp8o">1.65</td>
-    <td class="tg-wp8o">1.20</td>
-  </tr>  
-</table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
@@ -101,7 +69,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">3</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400">/td>
     <td class="tg-9j82">C1</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">2451320605</td>
@@ -111,7 +79,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">4</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C2</td>
     <td class="tg-obcv">MOLEX</td>
     <td class="tg-obcv">2451350205</td>
@@ -121,7 +89,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">5</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C2</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">2451350405</td>
@@ -131,7 +99,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">6</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C2</td>
     <td class="tg-obcv">MOLEX</td>
     <td class="tg-obcv">2451350605</td>
@@ -141,7 +109,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">7</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C3</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">0436450200</td>
@@ -151,7 +119,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">8</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C3</td>
     <td class="tg-obcv">MOLEX</td>
     <td class="tg-obcv">0436450400</td>
@@ -161,7 +129,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">9</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C3</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">0436450600</td>
@@ -171,7 +139,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">10</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C4</td>
     <td class="tg-obcv">Amphenol SINE Systems</td>
     <td class="tg-obcv">AT2PS-CKIT</td>
@@ -181,7 +149,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">11</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C4</td>
     <td class="tg-9j82">Amphenol SINE Systems</td>
     <td class="tg-9j82">AT3PS-CKIT</td>
@@ -191,7 +159,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">12</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C4</td>
     <td class="tg-obcv">Amphenol SINE Systems</td>
     <td class="tg-obcv">AT6PS-CKIT</td>
@@ -201,7 +169,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">13</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C5</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">0528520570</td>
@@ -211,7 +179,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-obcv">14</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C5</td>
     <td class="tg-obcv">MOLEX</td>
     <td class="tg-obcv">0528521070</td>
@@ -221,7 +189,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">15</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C5</td>
     <td class="tg-9j82">MOLEX</td>
     <td class="tg-9j82">0528521670</td>
@@ -612,7 +580,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   <tr>
     <td class="tg-obcv">54</td>
     <td class="tg-obcv"></td>
-    <td class="tg-obcv">C11</td>
+    <td class="tg-obcv">C12</td>
     <td class="tg-obcv">ELEPARTS</td>
     <td class="tg-obcv">PC1602</td>
     <td class="tg-obcv">2</td>
@@ -632,7 +600,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
   <tr>
     <td class="tg-obcv">56</td>
     <td class="tg-obcv"></td>
-    <td class="tg-obcv">C11</td>
+    <td class="tg-obcv">C12</td>
     <td class="tg-obcv">ELEPARTS</td>
     <td class="tg-obcv">PC1604</td>
     <td class="tg-obcv">4</td>
