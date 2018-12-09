@@ -58,148 +58,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
     <td class="tg-wp8o">5</td>
     <td class="tg-wp8o">1.65</td>
     <td class="tg-wp8o">1.20</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/2.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C1</td>
-    <td class="tg-wp8o">Digilent</td>
-    <td class="tg-wp8o">6-pin MTE Cable</td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o">1.00</td>
-    <td class="tg-wp8o">1.40</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/3.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PC1606</td>
-    <td class="tg-wp8o">6</td>
-    <td class="tg-wp8o">1.25</td>
-    <td class="tg-wp8o">1.40</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">4</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/4.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PM1802</td>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o">1.65</td>
-    <td class="tg-wp8o">1.25</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">5</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/5.JPG" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PC1802</td>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o">1.00</td>
-    <td class="tg-wp8o">1.05</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">6</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/6.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-04</td>
-    <td class="tg-wp8o">4</td>
-    <td class="tg-wp8o">1.50</td>
-    <td class="tg-wp8o">1.00</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">7</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/7.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PC1602</td>
-    <td class="tg-wp8o">2</td>
-    <td class="tg-wp8o">1.60</td>
-    <td class="tg-wp8o">1.65</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">8</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/8.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PC1604</td>
-    <td class="tg-wp8o">4</td>
-    <td class="tg-wp8o">2.10</td>
-    <td class="tg-wp8o">1.60</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">9</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/9.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">YEONHO</td>
-    <td class="tg-wp8o">SMH250-08</td>
-    <td class="tg-wp8o">8</td>
-    <td class="tg-wp8o">1.50</td>
-    <td class="tg-wp8o">0.95</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">10</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/10.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C5</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">MO0101</td>
-    <td class="tg-wp8o">1</td>
-    <td class="tg-wp8o">1.10</td>
-    <td class="tg-wp8o">1.85</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">11</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/11.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C7</td>
-    <td class="tg-wp8o">MOLEX</td>
-    <td class="tg-wp8o">5557-16R</td>
-    <td class="tg-wp8o">8</td>
-    <td class="tg-wp8o">0.95</td>
-    <td class="tg-wp8o">0.95</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">12</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/12.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">MOLEX</td>
-    <td class="tg-wp8o">5557-10R</td>
-    <td class="tg-wp8o">10</td>
-    <td class="tg-wp8o">0.95</td>
-    <td class="tg-wp8o">0.75</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">13</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/13.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C9</td>
-    <td class="tg-wp8o">MOLEX</td>
-    <td class="tg-wp8o">5557-12R</td>
-    <td class="tg-wp8o">12</td>
-    <td class="tg-wp8o">0.90</td>
-    <td class="tg-wp8o">0.80</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">14</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/14.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C8</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">PC1603</td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o">1.10</td>
-    <td class="tg-wp8o">1.25</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">15</td>
-    <td class="tg-73oq"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/15.jpg" height="400" width="400"></td>
-    <td class="tg-wp8o">C4</td>
-    <td class="tg-wp8o">ELEPARTS</td>
-    <td class="tg-wp8o">SMH250-03</td>
-    <td class="tg-wp8o">3</td>
-    <td class="tg-wp8o">1.45</td>
-    <td class="tg-wp8o">0.85</td>
-  </tr>
-  
+  </tr>  
 </table>
 
 <style type="text/css">
@@ -222,17 +81,17 @@ We used a different class of cable connectors for this experiments. Commonly, th
   </tr>
   <tr>
     <td class="tg-9j82">1</td>
-    <td class="tg-9j82"></td>
+    <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C1</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">2451320205</td>
+    <td class="tg-9j82"><a href="https://vn.misumi-ec.com/vona2/detail/222005579811/?HissuCode=SMH250-05">2451320205</a></td>
     <td class="tg-9j82">2</td>
     <td class="tg-9j82">0.49</td>
     <td class="tg-9j82">0.49</td>
   </tr>
   <tr>
     <td class="tg-obcv">2</td>
-    <td class="tg-obcv"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/2.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C1</td>
     <td class="tg-obcv">MOLEX</td>
     <td class="tg-obcv">2451320405</td>
