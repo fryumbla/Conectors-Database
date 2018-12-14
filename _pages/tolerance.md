@@ -34,7 +34,6 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 <video width="320" height="240" autoplay>
   <source src="videos/V1.mp4" type="video/mp4">
-Your browser does not support the video tag.
 </video>
 
 <style type="text/css">
