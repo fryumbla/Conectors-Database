@@ -32,6 +32,11 @@ We used a different class of cable connectors for this experiments. Commonly, th
 <iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4"></iframe>
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=E9Fgs-ubWx4&feature=youtu.be"></iframe>
 
+<video width="320" height="240" autoplay>
+  <source src="videos/V1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
