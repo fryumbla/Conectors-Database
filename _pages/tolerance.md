@@ -29,6 +29,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" height="400" width="400">
 
+<iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4"></iframe>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
