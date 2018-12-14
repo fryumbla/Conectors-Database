@@ -29,7 +29,7 @@ We used a different class of cable connectors for this experiments. Commonly, th
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" height="400" width="400">
 
-<video src="{{ site.url }}{{ site.baseurl }}/images/tolerance/V1.jpg">
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
