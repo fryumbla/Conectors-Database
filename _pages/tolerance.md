@@ -23,7 +23,7 @@ In this research, we analyze the mating tolerance of different types of plug-in 
 
 We used a different class of cable connectors for this experiments. Commonly, these connectors have been used in wiring harness assembly system. All connectors tested in our system and we made a tolerance database.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/Conectors.jpg" height="400" width="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/Conectors.jpg" height="400" width="400" class="center">
 
 <iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=E9Fgs-ubWx4&feature=youtu.be?autoplay=1"></iframe>
