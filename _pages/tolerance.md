@@ -7,6 +7,8 @@ header:
   image: "/images/tolerance/b1.jpg"
 ---
 
+Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev,Hyungpil Moon
+
 ## Introduction
 
 wIn this paper, we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. 
