@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tolerance/
-title: "Mating Process tolerance of plug-in cable connectors for wiring harness assembly tasks"
+title: "Tolerance Dataset: Mating Process of Plug-in Cable Connectors for Wiring Harness Assembly Tasks"
 author_profile: false
 header:
   image: "/images/tolerance/b1.jpg"
@@ -9,25 +9,25 @@ header:
 
 ## Introduction
 
-we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. As more robotic assembly applications are implemented in
-many industrial applications over the years, the  importance of wiring harness assembly tasks are getting more attention. Conventional mating processes rely on force control or mechanical passive compliance such as remote compliance center (RCC) mechanisms. We notice that, nowadays, collaboration robotic manipulators or small size industrial robotic manipulators attain high repeatability levels (sub-millimeter) thus demonstrate very precise position control capacities. In this study, our system using a simple sliding surface gripper attach in 6 degree-of-freedom ABB industrial robot to apply in wiring harness assembly tasks. We have found that 12 types of wiring harnesses have mating tolerance bigger than the repeatability of typical industrial manipulator. This database can be used with different robot manipulator for wiring harness assembly tasks without using force control but relying on only position control.
-
-## The tolerance between connectors
-
-The tolerance or permissible error range is the distance between the male and female connector in horizontal and vertical for successful mating. Hence, if the control position error of the robot arm is in the range of tolerance you can successfully plug the cable. The main purpose of this research is to obtain a database of many tolerance mating of cables connectors. We used the Robotiq 2-finger Adaptive gripper with the ABB robot Industrial and experimentally show that the mating process can be achieved by just using pose control.
+wIn this paper, we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. 
+Knowing the mating tolerance is very critical for the mating process and conventional mating processes rely on force control or mechanical passive compliance such as remote compliance center (RCC) mechanisms. 
+% Those capacities are increasing manipulator controlling strategies to robotic assembly applications. 
+In this study, our system uses a Robotiq 2-finger Adaptive gripper attached in 6 degree-of-freedom ABB industrial robot to test the mating process on a wiring harness assembly tasks. 
+For the mating tolerance, we test fifty kinds of wiring harnesses with different numbers of pins, widths, lengths, thicknesses, and shapes, such as those used for a car assembly process: MOLEX wiring harness connectors. 
+We notice that collaboration robotic manipulators or small size industrial robotic manipulators attain high repeatability levels (sub-millimeter) thus demonstrate very precise position control capacities. 
+We compare the connector mating tolerance to the position control error of ABB industrial manipulator and report a tolerance dataset of robotic wiring harness assembly tasks without using force control but relying on only position control.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" width="400">
 
 ## Mating process test
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="200" width="200">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F3.jpg" height="300" width="300">
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F4.jpg" height="300" width="300" >
+
 
 ## Tolerance Database
 
 We used a different class of cable connectors for this experiments. Commonly, these connectors have been used in wiring harness assembly system. All connectors tested in our system and we made a tolerance database.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F5.jpg" height="400" width="400">
+<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/Conectors.jpg" height="400" width="400">
 
 <iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=E9Fgs-ubWx4&feature=youtu.be?autoplay=1"></iframe>
