@@ -16,7 +16,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 ## Mating process test
 <P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/testprocess.jpg" width="400"></P>
 
-<iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9Fgs-ubWx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tolerance Database
 
