@@ -350,7 +350,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
   </tr>
   <tr>
     <td class="tg-obcv">32</td>
-    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/32.JPG" height="400" width="400"></td>
+    <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/32.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C7</td>
     <td class="tg-obcv">YEONHO</td>
     <td class="tg-obcv">SMH250-11</td>
