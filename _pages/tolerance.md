@@ -13,11 +13,10 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 
 <P ALIGN="justify">In this research, we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. Knowing the mating tolerance is very critical for the mating process and conventional mating processes rely on force control or mechanical passive compliance such as remote compliance center (RCC) mechanisms. In this study, our system uses a Robotiq 2-finger Adaptive gripper attached in 6 degree-of-freedom ABB industrial robot to test the mating process on a wiring harness assembly tasks. For the mating tolerance, we test fifty kinds of wiring harnesses with different numbers of pins, widths, lengths, thicknesses, and shapes, such as those used for a car assembly process: MOLEX wiring harness connectors. We notice that collaboration robotic manipulators or small size industrial robotic manipulators attain high repeatability levels (sub-millimeter) thus demonstrate very precise position control capacities. We compare the connector mating tolerance to the position control error of ABB industrial manipulator and report a tolerance dataset of robotic wiring harness assembly tasks without using force control but relying on only position control.</P>
 
-<P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" height="400" width="400"></P>
-
 ## Mating process test
-<img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="400" width="400" class="center">
+<P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/testprocess.jpg" width="400"></P>
 
+<iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
 
 ## Tolerance Database
 
@@ -25,7 +24,6 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/Conectors.jpg" height="400" width="400" class="center">
 
-<iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
