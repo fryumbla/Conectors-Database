@@ -16,7 +16,7 @@ In this research, we analyze the mating tolerance of different types of plug-in 
 <img align="middle" src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F1.jpg" width="400" class="center">
 
 ## Mating process test
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="200" width="200" class="center">
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/F2.png" height="200" width="200" class="center"></center>
 
 
 ## Tolerance Database
