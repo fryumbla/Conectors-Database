@@ -26,11 +26,6 @@ We used a different class of cable connectors for this experiments. Commonly, th
 <img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/Conectors.jpg" height="400" width="400" class="center">
 
 <iframe width="420" height="315" src="https://youtu.be/E9Fgs-ubWx4?autoplay=0"></iframe>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=E9Fgs-ubWx4&feature=youtu.be?autoplay=1"></iframe>
-
-<video width="320" height="240" autoplay>
-  <source src="videos/V1.mp4" type="video/mp4">
-</video>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
