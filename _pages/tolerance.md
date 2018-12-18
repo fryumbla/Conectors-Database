@@ -43,7 +43,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/1.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C1</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82"><a href="https://vn.misumi-ec.com/vona2/detail/222005579811/?HissuCode=SMH250-05">2451320205</a></td>
+    <td class="tg-9j82"><a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/2451320205_CABLE_ASSEMBLIES.xml&channel=Products&Lang=en-US">2451320205</a></td>
     <td class="tg-9j82">2</td>
     <td class="tg-9j82">0.49</td>
     <td class="tg-9j82">0.49</td>
@@ -53,7 +53,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/2.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C1</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">2451320405</td>
+    <td class="tg-obcv"><a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/2451320405_CABLE_ASSEMBLIES.xml&channel=Products&Lang=en-US">2451320405</a></td>
     <td class="tg-obcv">4</td>
     <td class="tg-obcv">0.50</td>
     <td class="tg-obcv">0.45</td>
@@ -63,7 +63,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/3.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C1</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">2451320605</td>
+    <td class="tg-9j82"><a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/2451320605_CABLE_ASSEMBLIES.xml&channel=Products&Lang=en-US">2451320605</a></td>
     <td class="tg-9j82">6</td>
     <td class="tg-9j82">0.41</td>
     <td class="tg-9j82">0.55</td>
@@ -73,7 +73,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/4.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C2</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">2451350205</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/molex-llc/2451350205/WM15748-ND/6564765">2451350205</a></td>
     <td class="tg-obcv">2</td>
     <td class="tg-obcv">0.63</td>
     <td class="tg-obcv">0.58</td>
@@ -83,7 +83,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/5.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C2</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">2451350405</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/molex-llc/2451350405/WM15751-ND/6564768">2451350405</a></td>
     <td class="tg-9j82">4</td>
     <td class="tg-9j82">0.61</td>
     <td class="tg-9j82">0.58</td>
@@ -93,7 +93,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/6.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C2</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">2451350605</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/molex-llc/2451350605/WM15754-ND/6564771">2451350605</a></td>
     <td class="tg-obcv">6</td>
     <td class="tg-obcv">0.64</td>
     <td class="tg-obcv">0.66</td>
@@ -103,7 +103,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/7.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C3</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">0436450200</td>
+    <td class="tg-9j82"><a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/0436450200_CRIMP_HOUSINGS.xml&channel=Products">0436450200</a></td>
     <td class="tg-9j82">2</td>
     <td class="tg-9j82">0.35</td>
     <td class="tg-9j82">0.43</td>
@@ -113,7 +113,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/8.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C3</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">0436450400</td>
+    <td class="tg-obcv"><a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/0436450400_CRIMP_HOUSINGS.xml&channel=Products&Lang=en-US">0436450400</a></td>
     <td class="tg-obcv">4</td>
     <td class="tg-obcv">0.43</td>
     <td class="tg-obcv">0.42</td>
@@ -123,7 +123,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/9.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C3</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">0436450600</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/molex-llc/0436450600/WM1849-ND/268978">0436450600</a></td>
     <td class="tg-9j82">6</td>
     <td class="tg-9j82">0.35</td>
     <td class="tg-9j82">0.27</td>
@@ -133,7 +133,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/10.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C4</td>
     <td class="tg-obcv">Amphenol SINE Systems</td>
-    <td class="tg-obcv">AT2PS-CKIT</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/amphenol-sine-systems-corp/AT2PS-CKIT/889-1234-ND/4415018">AT2PS-CKIT</a></td>
     <td class="tg-obcv">2</td>
     <td class="tg-obcv">0.70</td>
     <td class="tg-obcv">1.23</td>
@@ -143,7 +143,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/11.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C4</td>
     <td class="tg-9j82">Amphenol SINE Systems</td>
-    <td class="tg-9j82">AT3PS-CKIT</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/amphenol-sine-systems-corp/AT3PS-CKIT/889-1235-ND/4415019">AT3PS-CKIT</a></td>
     <td class="tg-9j82">3</td>
     <td class="tg-9j82">1.15</td>
     <td class="tg-9j82">1.13</td>
@@ -153,7 +153,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/12.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C4</td>
     <td class="tg-obcv">Amphenol SINE Systems</td>
-    <td class="tg-obcv">AT6PS-CKIT</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/amphenol-sine-systems-corp/AT6PS-CKIT/889-1237-ND/4415021">AT6PS-CKIT</a></td>
     <td class="tg-obcv">6</td>
     <td class="tg-obcv">1.03</td>
     <td class="tg-obcv">1.05</td>
@@ -163,7 +163,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/13.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C5</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">0528520570</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/molex-llc/0528520570/WM11072CT-ND/5171187">0528520570</a></td>
     <td class="tg-9j82">5</td>
     <td class="tg-9j82">0.84</td>
     <td class="tg-9j82">0.70</td>
@@ -173,7 +173,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/14.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C5</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">0528521070</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/molex-llc/0528521070/WM11076CT-ND/5171195">0528521070</a></td>
     <td class="tg-obcv">10</td>
     <td class="tg-obcv">1.13</td>
     <td class="tg-obcv">0.51</td>
@@ -183,7 +183,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/15.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C5</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">0528521670</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/molex-llc/0528521670/WM3395CT-ND/2405613">0528521670</a></td>
     <td class="tg-9j82">16</td>
     <td class="tg-9j82">1.13</td>
     <td class="tg-9j82">0.53</td>
@@ -193,7 +193,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-obcv"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/16.jpg" height="400" width="400"></td>
     <td class="tg-obcv">C5</td>
     <td class="tg-obcv">MOLEX</td>
-    <td class="tg-obcv">0528522070</td>
+    <td class="tg-obcv"><a href="https://www.digikey.com/product-detail/en/molex-llc/0528522070/WM11080CT-ND/5171203">0528522070</a></td>
     <td class="tg-obcv">20</td>
     <td class="tg-obcv">1.08</td>
     <td class="tg-obcv">0.53</td>
@@ -203,7 +203,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
     <td class="tg-9j82"><img src="{{ site.url }}{{ site.baseurl }}/images/cables/17.jpg" height="400" width="400"></td>
     <td class="tg-9j82">C5</td>
     <td class="tg-9j82">MOLEX</td>
-    <td class="tg-9j82">0528522670</td>
+    <td class="tg-9j82"><a href="https://www.digikey.com/product-detail/en/molex-llc/0528522670/WM20339CT-ND/8638604">0528522670</a></td>
     <td class="tg-9j82">26</td>
     <td class="tg-9j82">1.18</td>
     <td class="tg-9j82">0.33</td>
