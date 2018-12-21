@@ -18,7 +18,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avqnbM4VFvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Repeatability of the mating process
-<P ALIGN="justify">The experiment consists, we move multiple times with different positions the Robotiq Adaptive Gripper.Then  the  female  connector  comes  back  to  a  mating point which is occurring in one common place (the maleconnector at the millimeter bed). The program uses five differents robot position with ten paths. So, we check one hundred times the mating process. Also, we can also claim the repeatability not affect a lot in the accuracy of therobot arm.</P>
+<P ALIGN="justify">The experiment consists, we move multiple times with different positions the Robotiq Adaptive Gripper. Then  the  female  connector  comes  back  to  a  mating point which is occurring in one common place (the maleconnector at the millimeter bed). The program uses five differents robot position with five paths. So, we check one hundred times the mating process. Also, we can also claim the repeatability not affect a lot in the accuracy of therobot arm.</P>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYBXj_857Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
