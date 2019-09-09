@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tolerance/
-title: "Tolerance Dataset: Mating Process of Plug-in Cable Connectors for Wiring Harness Assembly Tasks"
+title: "Tolerance Dataset: Mating Process of Plug-in Cable Connectors for Wire Harness Assembly Tasks"
 author_profile: false
 header:
   image: "/images/tolerance/b1.jpg"
@@ -10,7 +10,7 @@ header:
 Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 
 ## Resume
-<P ALIGN="justify">In this research, we analyze the mating tolerance of different types of plug-in cable connectors and demonstrate experimentally that the mating process can be achieved by just using position control of conventional industrial robots. Knowing the mating tolerance is very critical for the mating process and conventional mating processes rely on force control or mechanical passive compliance such as remote compliance center (RCC) mechanisms. In this study, our system uses a Robotiq 2-finger Adaptive gripper attached in 6 degree-of-freedom ABB industrial robot to test the mating process on a wiring harness assembly tasks. For the mating tolerance, we test fifty kinds of wiring harnesses with different numbers of pins, widths, lengths, thicknesses, and shapes, such as those used for a car assembly process: MOLEX wiring harness connectors. We notice that collaboration robotic manipulators or small size industrial robotic manipulators attain high repeatability levels (sub-millimeter) thus demonstrate very precise position control capacities. We compare the connector mating tolerance to the position control error of ABB industrial manipulator and report a tolerance dataset of robotic wiring harness assembly tasks without using force control but relying on only position control.</P>
+<P ALIGN="justify">In this research, we studied the mating tol-erance of various plug-in cable connectors and providea mating tolerance data set of 70 different connectors.This data set will be highly advantageous to industriesfor  wire  harness  assembly  tasks  using  robots.  Under-standing  the  mating  tolerance  is  crucial  for  automat-ing the mating process because it is closely related tothe control specifications of a robotic manipulator. Oursystem  uses  a  2-finger  Robotiq  adaptive  gripper  at-tached to a 6 degree-of-freedom industrial robot (ABBRobotics) to test the mating process of wire harness as-sembly tasks. In addition, we use 70 types of wire har-ness connectors with different numbers of pins widths,lengths, and thicknesses, and various shapes, to test themating tolerance. The results indicate that the connec-tor mating tolerance of our data set is more generousthan  the  repeatability  of  conventional  industrial  ma-nipulators,  and  further  demonstrate  the  suitability  ofthe position control methods to wire harness assemblytasks.</P>
 
 ## Mating process test
 <P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/testprocess.jpg" width="700"></P>
@@ -18,7 +18,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avqnbM4VFvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Repeatability of the mating process
-<P ALIGN="justify">The experiment consists, we move multiple times with different positions the Robotiq Adaptive Gripper. Then  the  female  connector  comes  back  to  a  mating point which is occurring in one common place (the maleconnector at the millimeter bed). The program uses five differents robot position with five paths. So, we check one hundred times the mating process. Also, we can also claim the repeatability not affect a lot in the accuracy of therobot arm.</P>
+<P ALIGN="justify">This section explains the test to validate the accuracy and the repeatability of the ABB robot arm of the cable in the current analysis. We use a different program path, but the final frame is the position of the female connector to the male connector at the millimeter bed. After measuring the tolerance, this test can be begun. This experiment involves moving the Robotiq Adaptive Gripper multiple times in different positions. In this experiment, the female connector always returns to the mating process (with the male connector being at the millimeter bed). The program uses 5 different robot positions with different paths. </P>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYBXj_857Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
