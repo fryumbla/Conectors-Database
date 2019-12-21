@@ -9,8 +9,12 @@ header:
 
 Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 
+
+https://link.springer.com/article/10.1007%2Fs11370-019-00307-5
+
 ## Resume
-<P ALIGN="justify">In this research, we studied the mating tol-erance of various plug-in cable connectors and providea mating tolerance data set of 70 different connectors.This data set will be highly advantageous to industriesfor  wire  harness  assembly  tasks  using  robots.  Under-standing  the  mating  tolerance  is  crucial  for  automat-ing the mating process because it is closely related tothe control specifications of a robotic manipulator. Oursystem  uses  a  2-finger  Robotiq  adaptive  gripper  at-tached to a 6 degree-of-freedom industrial robot (ABBRobotics) to test the mating process of wire harness as-sembly tasks. In addition, we use 70 types of wire har-ness connectors with different numbers of pins widths,lengths, and thicknesses, and various shapes, to test themating tolerance. The results indicate that the connec-tor mating tolerance of our data set is more generousthan  the  repeatability  of  conventional  industrial  ma-nipulators,  and  further  demonstrate  the  suitability  ofthe position control methods to wire harness assemblytasks.</P>
+<P ALIGN="justify">In this research, we studied the mating tolerance of various plug-in cable connectors and provide a mating tolerance data set of 70 different connectors. 
+This data set will be highly advantageous to industries for wire harness assembly tasks using robots. Understanding the mating tolerance is crucial for automating the mating process because it  is closely related to the control specifications of a robotic manipulator. Our system uses a 2-finger Robotiq adaptive gripper attached to a 6 degree-of-freedom industrial robot (ABB Robotics) to test the mating process of wire harness assembly tasks. In addition, we use 70 types of wire harness connectors with different numbers of pins widths, lengths, and thicknesses, and various shapes, to test the mating tolerance. The results indicate that the connector mating tolerance of our data set is more generous than the repeatability of conventional industrial  manipulators, and further demonstrate the suitability  of the position control methods to wire harness assembly tasks. </P>
 
 ## Mating process test
 <P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/tolerance/testprocess.jpg" width="700"></P>
@@ -18,7 +22,7 @@ Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avqnbM4VFvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Repeatability of the mating process
-<P ALIGN="justify">This section explains the test to validate the accuracy and the repeatability of the ABB robot arm of the cable in the current analysis. We use a different program path, but the final frame is the position of the female connector to the male connector at the millimeter bed. After measuring the tolerance, this test can be begun. This experiment involves moving the Robotiq Adaptive Gripper multiple times in different positions. In this experiment, the female connector always returns to the mating process (with the male connector being at the millimeter bed). The program uses 5 different robot positions with different paths. </P>
+<P ALIGN="justify">This section explains the test to validate the accuracy and the repeatability of the ABB robot arm of the cable in the current analysis. We use a different program path, but the final frame is the position of the female connector to the male connector at the millimeter bed. After measuring the tolerance, this test can be begun. This experiment involves moving the Robotiq Adaptive Gripper multiple times in different positions. In this experiment, the female connector always returns to the mating process (with the male connector being at the millimeter bed). The program uses 5 different robot positions with different paths. Thus, we checked the mating process 100 times, as shown in the video clip. </P>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYBXj_857Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
