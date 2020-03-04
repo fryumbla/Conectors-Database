@@ -9,8 +9,7 @@ header:
 
 Francisco Yumbla, June-Sup Yi, Meseret Abayebas, Mahir Shafiyev, Hyungpil Moon
 
-
-https://link.springer.com/article/10.1007%2Fs11370-019-00307-5
+Journal link: https://link.springer.com/article/10.1007%2Fs11370-019-00307-5
 
 ## Resume
 <P ALIGN="justify">In this research, we studied the mating tolerance of various plug-in cable connectors and provide a mating tolerance data set of 70 different connectors. 

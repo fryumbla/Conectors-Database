@@ -9,10 +9,20 @@ header:
 
 ## Introduction
 
- <P ALIGN="justify">This work presents a gripper with a vibration finger to grasp and perform in-hand manipulation of a cable connector for repositioning and aligning. For wiring harness assembly tasks, knowing the accurate pose of the grasped cable connector in the gripper is very critical for the successful mating process. Conventional approaches rely on precise active sensing of the part, for example, based on visual images or three dimensional images and rigorous grasping planning for the gripper motion. As most wiring harness parts are loosely placed instead of fixed to a fixture, the part tends to move when grasped by a gripper. Its grasped pose in the gripper can vary and this grasped pose error tends to fail the mating process. In this study, we design a vibrating finger and analyze its physical conditions for in-hand manipulation. We model the relation between the vibration frequency and the moving velocity of the grasped part in the gripper and experimentally verify the conditions. We experimentally show that the moving velocity is proportional to the vibration frequency and the proposed vibrating finger can align it to a predictable pose. </P>
+ <P ALIGN="justify">This work presents a new gripper with a vibrating finger to performing in-hand manipulation to grasp, reposition and align a cable connector. For wiring harness assembly tasks, knowing the accurate pose of the grasped cable connector in the gripper is critical for the mating process to be successful. Conventional approaches rely on precise active sensing of the connector, for example, based on visual images or three dimensional images and rigorous grasping planning for the gripper motion. As most wiring harness parts are loosely placed instead of fixed to a fixture, the connector tends to move when grasped by a gripper. This grasped pose can cause the mating process to fail. In this research, we proposed, studied and designed a gripper with a vibration system. At the same time, we modeled and analyzed the relationship between the vibration frequency and the velocity of the cable to verified this gripper design experimentally. We experimentally show that the moving velocity of the cable is proportional to the vibration system frequency and the proposed vibrating finger can move the cable connector to the desired pose reliably.  </P>
 
 <P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/vibration/F1.jpg" width="700"></P>
 
 ## Implementation and experimental verification
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fC2VaRhrNhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/vibration/conectors.jpg" width="700"></P>
+
+## Type 1 cable connector
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6JdgaQzaCP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Type 2 cable connector
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mq9-K1Rfub4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Type 3 cable connector
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2y-6WHcR9g0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
