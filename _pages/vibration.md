@@ -15,6 +15,8 @@ header:
 
 ## Implementation and experimental verification
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-Hea1yU2Ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <P ALIGN="center"><img src="{{ site.url }}{{ site.baseurl }}/images/vibration/conectors.jpg" width="700"></P>
 
 ## Type 1 cable connector
